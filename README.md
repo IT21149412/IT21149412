@@ -1,2 +1,2 @@
-Student Registration Numbwe : IT21149412
-Github Username
+Student Registration Number : IT21149412
+Github Username : KaushaniWijesundara
